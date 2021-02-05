@@ -7,3 +7,17 @@
 	padding: 60px 0;
 	border-bottom: 1px solid #e5e5e5;
  }
+ .login{
+	 width: 300px;
+	 height:350px;
+	 background-color: black;
+	 padding: 15px;
+	 margin:190px 70%;
+	 border-radius: 10px;
+	
+	 opacity: 0.7;
+ }
+ .login h2{
+	color: blanchedalmond;
+	text-align: center;
+ }
