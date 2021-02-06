@@ -17,6 +17,7 @@
 
  #### Funcionalidades a serem desenvolvidas
  1. Login;
+  1. Login diferente para grupos de clientes;
  2. Cadastro de clientes e funcionários;
  3. Simulador de saldo e todas as funcionalidades que um banco tem;
  
