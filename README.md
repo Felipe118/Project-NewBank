@@ -1,5 +1,5 @@
 # Project-NewBank
- Projeto de um banco fictício chamdo NewBank
+ Projeto de um banco fictício chamdo **NewBank**
 
  ## Descrição
  Site feito em HTML, CSS e Bootstrap - Um site responsivo
