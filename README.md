@@ -16,8 +16,9 @@
  * MySQL
 
  #### Funcionalidades a serem desenvolvidas
- 1. Login;
-    1. Login diferente para grupos de clientes;
- 2. Cadastro de clientes e funcionários;
- 3. Simulador de saldo e todas as funcionalidades que um banco tem;
+ 1. -[x] Login;
+    1. -[] Login diferente para grupos de clientes;
+ 2. -[] Banco de dados relacional
+ 3. -[] Cadastro de clientes e funcionários;
+ 4. -[] Simulador de saldo e todas as funcionalidades que um banco tem;
  
