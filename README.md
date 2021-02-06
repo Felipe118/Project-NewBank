@@ -24,5 +24,6 @@
 
   #### Funcionalidades Desenvolvidas
   - [x] - Login
+  - [ ] - Banco de Dados
  
  
